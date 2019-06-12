@@ -1,0 +1,8 @@
+*.dSYM/
+*.log
+*.o
+/cmake-build-*/
+shellcode.h
+
+*.iml
+/.idea/
